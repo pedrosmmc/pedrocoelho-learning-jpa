@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb138ced-5efc-4f34-b598-46b21a1ed191" name="Default Changelist" comment="" />
+    <list default="true" id="fb138ced-5efc-4f34-b598-46b21a1ed191" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa/LearningJpaApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa/controllers/IndexController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa/domain/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa/domain/Difficulty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa/domain/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa/domain/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa/domain/Recipe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa/domain/UnitOfMeasure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/pedrocoelho/learningjpa/learningjpa/LearningJpaApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learning/jpa/pedrocoelholearningjpa/PedrocoelhoLearningJpaApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learning/jpa/pedrocoelholearningjpa/UserDAOServiceCommandLineRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learning/jpa/pedrocoelholearningjpa/UserRepositoryCommandLineRunner.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learning/jpa/pedrocoelholearningjpa/entity/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learning/jpa/pedrocoelholearningjpa/service/UserDAOService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learning/jpa/pedrocoelholearningjpa/service/UserRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/pedrocoelho/learning/jpa/pedrocoelholearningjpa/PedrocoelhoLearningJpaApplicationTests.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,26 +33,42 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1PKstyHaYgIftHGMaC2oWzu0qv4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learning/jpa/pedrocoelholearningjpa" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/pedrocoelho/learningjpa" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.pedrocoelho.learningjpa" />
       <recent name="com.pedrocoelho.learning.jpa.pedrocoelholearningjpa.entity" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -58,6 +96,9 @@
       </method>
     </configuration>
   </component>
+  <component name="SQLPlugin.ProjectConfiguration">
+    <queries />
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -71,10 +112,25 @@
       <workItem from="1565634342273" duration="1675000" />
       <workItem from="1565684048978" duration="7959000" />
       <workItem from="1565715532253" duration="1365000" />
+      <workItem from="1567202894248" duration="118000" />
+      <workItem from="1567203140516" duration="1160000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

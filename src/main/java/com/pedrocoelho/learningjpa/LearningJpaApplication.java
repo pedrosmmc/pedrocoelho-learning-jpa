@@ -1,13 +1,13 @@
-package com.pedrocoelho.learning.jpa.pedrocoelholearningjpa;
+package com.pedrocoelho.learningjpa;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class PedrocoelhoLearningJpaApplication {
+public class LearningJpaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(PedrocoelhoLearningJpaApplication.class, args);
+		SpringApplication.run(LearningJpaApplication.class, args);
 	}
 
 }

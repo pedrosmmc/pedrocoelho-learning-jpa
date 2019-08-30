@@ -1,10 +1,10 @@
-package com.pedrocoelho.learning.jpa.pedrocoelholearningjpa;
+package com.pedrocoelho.learningjpa.learningjpa;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PedrocoelhoLearningJpaApplicationTests {
+class LearningJpaApplicationTests {
 
 	@Test
 	void contextLoads() {
